@@ -19,5 +19,5 @@ Berikut kontak dari MBC Lab
 Landing page ini dibuat oleh Aryasatyo Aqila R. Mahasiswa dari S1 Teknik Sistem Energi dengan NIM 101062300054 angkatan 2023 di Telkom University.
 Berikut informasi untuk kontak dari developer.
 - No Whatsapp : +62 858-9145-5498
-- Instagram   : awasadaarya
+- Instagram   : @awasadaarya
 - linkedin    : https://www.linkedin.com/in/aryasatyo-aqila-rachman-a7a3b22b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
