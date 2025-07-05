@@ -21,3 +21,5 @@ Berikut informasi untuk kontak dari developer.
 - No Whatsapp : +62 858-9145-5498
 - Instagram   : @awasadaarya
 - linkedin    : https://www.linkedin.com/in/aryasatyo-aqila-rachman-a7a3b22b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+# Demo Link
+https://68691a75d581689f5575b502--kaleidoscopic-florentine-7b9309.netlify.app/
